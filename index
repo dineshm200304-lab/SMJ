@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>₹99 Online Weight Loss Transformation Webinar | Get Clarity Before You Commit</title>
+  <meta name="description" content="Find out why your previous weight-loss attempts didn't work and what to do differently over the next 90 days. ₹99 online coach-led webinar.">
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+          },
+          colors: {
+            brand: {
+              black: '#090a0f',
+              surface: '#12141c',
+              card: '#181b26',
+              border: '#262b3d',
+              accent: '#ff5e14', // Energetic, high-contrast performance orange
+              accentHover: '#e04c07',
+              accentGold: '#f59e0b',
+              muted: '#94a3b8',
+              light: '#f8fafc'
+            }
+          },
+          boxShadow: {
+            'glow': '0 0 25px -4px rgba(255, 94, 20, 0.45)',
+            'glow-subtle': '0 0 15px -3px rgba(255, 94, 20, 0.25)',
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      background-color: #090a0f;
+      color: #f8fafc;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      overflow-x: hidden;
+    }
+    .accent-gradient-text {
+      background: linear-gradient(135deg, #ffffff 40%, #ff5e14 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .highlight-pill {
+      background: rgba(255, 94, 20, 0.12);
+      border: 1px solid rgba(255, 94, 20, 0.35);
+    }
+    .card-border-glow:hover {
+      border-color: rgba(255, 94, 20, 0.5);
+      transform: translateY(-2px);
+      transition: all 0.2s ease-in-out;
+    }
+  </style>
+</head>
+
+<body class="antialiased selection:bg-brand-accent selection:text-white pb-24 md:pb-0">
+
+  <header class="w-full bg-brand-surface border-b border-brand-border py-2.5 px-4 text-center sticky top-0 z-40 backdrop-blur-md bg-opacity-90">
+    <div class="max-w-5xl mx-auto flex items-center justify-center gap-2 text-xs sm:text-sm font-medium text-slate-300">
+      <span class="inline-block w-2 h-2 rounded-full bg-brand-accent animate-pulse"></span>
+      <span>Live Interactive Session • <strong class="text-white">₹99 Only</strong> • Coach-Led • Limited Live Interaction Batch</span>
+    </div>
+  </header>
+
+  <main>
+    <!-- ==================================================
+         SECTION 1 — HERO SECTION
+         ================================================== -->
+    <section class="relative pt-10 pb-16 sm:pt-16 sm:pb-24 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
+      <!-- Background subtle atmospheric radial glow -->
+      <div class="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-brand-accent/10 rounded-full blur-3xl pointer-events-none -z-10"></div>
+
+      <div class="text-center max-w-3xl mx-auto">
+        
+        <!-- Trust badge -->
+        <div class="inline-flex items-center gap-2 highlight-pill text-brand-accent px-3.5 py-1.5 rounded-full text-xs sm:text-sm font-bold tracking-wide uppercase mb-6">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+          ₹99 • Online • Coach-Led Webinar
+        </div>
+
+        <!-- Main Headline -->
+        <h1 class="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-[1.15] mb-5">
+          Tried Losing Weight Before But <span class="text-brand-accent underline decoration-brand-accent/40 decoration-wavy decoration-2">Still Not Getting</span> The Result You Want?
+        </h1>
+
+        <!-- Subheadline -->
+        <p class="text-lg sm:text-2xl font-bold text-slate-100 max-w-2xl mx-auto mb-5 leading-snug">
+          Find Out What’s Holding You Back — And What To Do Differently Over The Next <span class="text-amber-400">90 Days</span>.
+        </p>
+
+        <!-- Supporting copy -->
+        <p class="text-slate-300 text-sm sm:text-base leading-relaxed mb-6 max-w-xl mx-auto">
+          Join our <strong>₹99 Online Weight Loss Transformation Webinar</strong> and get clarity on your previous attempts, your hidden obstacles, and the exact structured approach you can follow.
+        </p>
+
+        <!-- Critical reassurance line -->
+        <div class="p-3 mb-8 bg-brand-surface rounded-xl border border-brand-border inline-block">
+          <p class="text-xs sm:text-sm font-semibold text-emerald-400 flex items-center justify-center gap-2">
+            <svg class="w-4 h-4 inline flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+            No immediate commitment: You do NOT need to join the 90-day program today.
+          </p>
+        </div>
+
+        <!-- Hero CTA Block -->
+        <div class="flex flex-col items-center justify-center">
+          <button onclick="openRegistrationModal()" class="w-full sm:w-auto px-8 py-4 bg-brand-accent hover:bg-brand-accentHover text-white font-extrabold text-base sm:text-lg rounded-xl shadow-glow transition-all transform active:scale-95 flex items-center justify-center gap-3">
+            <span>GET MY ₹99 WEBINAR SEAT</span>
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
+          </button>
+          <span class="text-xs text-brand-muted mt-3 tracking-wide">
+            🔒 Understand first. Decide later. • 100% Secure Checkout
+          </span>
+        </div>
+
+        <!-- Quick 3-Pillar Check on Hero -->
+        <div class="grid grid-cols-3 gap-2 sm:gap-4 mt-12 pt-8 border-t border-brand-border/60 text-left sm:text-center text-xs sm:text-sm text-slate-300">
+          <div class="flex flex-col sm:items-center">
+            <span class="text-brand-accent font-bold text-base sm:text-lg">Live Q&A</span>
+            <span class="text-brand-muted">Ask the coach directly</span>
+          </div>
+          <div class="flex flex-col sm:items-center border-x border-brand-border px-2">
+            <span class="text-brand-accent font-bold text-base sm:text-lg">Zero Fluff</span>
+            <span class="text-brand-muted">Analyze past pitfalls</span>
+          </div>
+          <div class="flex flex-col sm:items-center">
+            <span class="text-brand-accent font-bold text-base sm:text-lg">₹99 Ticket</span>
+            <span class="text-brand-muted">No hidden lock-ins</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 2 — PROBLEM / SELF-IDENTIFICATION
+         ================================================== -->
+    <section class="py-16 bg-brand-surface/70 border-y border-brand-border/80 px-4 sm:px-6 lg:px-8">
+      <div class="max-w-5xl mx-auto">
+        <div class="text-center max-w-2xl mx-auto mb-10">
+          <p class="text-brand-accent text-xs sm:text-sm font-bold uppercase tracking-widest mb-2">Relatable Reality Check</p>
+          <h2 class="text-2xl sm:text-4xl font-extrabold tracking-tight">
+            Maybe You've Been Here Before...
+          </h2>
+          <p class="text-brand-muted text-sm sm:text-base mt-2">
+            If you recognize yourself in these cycles, you are definitely not alone.
+          </p>
+        </div>
+
+        <!-- 6 Relatable Cards Grid -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Joined a gym. Stopped."</h3>
+              <p class="text-xs text-brand-muted">Felt motivated for 2 weeks, got overwhelmed or busy, and the membership card just collected dust.</p>
+            </div>
+          </div>
+
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Started a diet. Couldn't maintain it."</h3>
+              <p class="text-xs text-brand-muted">Cut out all the food you love, suffered through starvation, and gave in at the next family dinner or weekend.</p>
+            </div>
+          </div>
+
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Tried doing it yourself. Didn't last."</h3>
+              <p class="text-xs text-brand-muted">Watched random YouTube routines and Instagram reels, got confused, and lacked structure to follow through.</p>
+            </div>
+          </div>
+
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Lost weight. Gained it back."</h3>
+              <p class="text-xs text-brand-muted">The scale moved down temporarily through punishment, then bounced right back the moment normal life resumed.</p>
+            </div>
+          </div>
+
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Started again. Stopped again."</h3>
+              <p class="text-xs text-brand-muted">The draining loop of high hopes followed by friction, guilt, and starting from square one every few months.</p>
+            </div>
+          </div>
+
+          <div class="bg-brand-card p-5 rounded-xl border border-brand-border card-border-glow flex items-start gap-4">
+            <div class="w-10 h-10 rounded-lg bg-red-950/60 border border-red-800/40 flex items-center justify-center text-red-400 font-bold text-lg flex-shrink-0">✕</div>
+            <div>
+              <h3 class="font-bold text-slate-100 text-base mb-1">"Kept saying: I'll start next Monday."</h3>
+              <p class="text-xs text-brand-muted">Weeks turn into months waiting for the 'perfect stress-free time' to begin, while clothes keep fitting tighter.</p>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Pivotal realization block -->
+        <div class="mt-12 p-6 sm:p-8 rounded-2xl bg-gradient-to-r from-brand-card via-brand-surface to-brand-card border border-brand-accent/30 text-center max-w-3xl mx-auto">
+          <p class="text-brand-muted text-sm uppercase tracking-wider mb-2">Now you're asking yourself...</p>
+          <h3 class="text-2xl sm:text-3xl font-black text-white mb-3">
+            “What am I actually doing wrong?”
+          </h3>
+          <p class="text-slate-300 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
+            It’s not a lack of willpower. It’s an absence of a repeatable system. 
+            <strong class="text-brand-accent block mt-1">Don't start another 90-day attempt without understanding what needs to change first.</strong>
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 3 — GAIN / WHAT THEY WILL GET
+         ================================================== -->
+    <section class="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
+      <div class="text-center max-w-2xl mx-auto mb-14">
+        <span class="inline-block highlight-pill text-brand-accent px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider mb-3">What You Will Discover</span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
+          Get Clarity On Your Weight-Loss Journey
+        </h2>
+        <p class="text-brand-muted text-sm sm:text-base mt-3">
+          This 60-to-75-minute live online workshop is crafted to replace confusion with a solid, personalized blueprint.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        
+        <!-- Card 1 -->
+        <div class="bg-brand-surface p-6 sm:p-8 rounded-2xl border border-brand-border hover:border-brand-accent/40 transition">
+          <div class="w-12 h-12 rounded-xl bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-brand-accent font-black text-xl mb-4">
+            01
+          </div>
+          <h3 class="text-xl font-black text-white mb-2 tracking-wide uppercase">
+            WHY IT DIDN'T WORK
+          </h3>
+          <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
+            Understand why your previous attempts may have stopped, stalled, or failed to produce lasting results. Deconstruct the biological and behavioral traps that cause rebound weight gain.
+          </p>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="bg-brand-surface p-6 sm:p-8 rounded-2xl border border-brand-border hover:border-brand-accent/40 transition">
+          <div class="w-12 h-12 rounded-xl bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-brand-accent font-black text-xl mb-4">
+            02
+          </div>
+          <h3 class="text-xl font-black text-white mb-2 tracking-wide uppercase">
+            WHAT TO DO NOW
+          </h3>
+          <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
+            Understand what actually needs to change if you want meaningful, visible progress over the next 90 days. Stop wasting energy on ineffective cardio burnout or extreme restriction.
+          </p>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="bg-brand-surface p-6 sm:p-8 rounded-2xl border border-brand-border hover:border-brand-accent/40 transition">
+          <div class="w-12 h-12 rounded-xl bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-brand-accent font-black text-xl mb-4">
+            03
+          </div>
+          <h3 class="text-xl font-black text-white mb-2 tracking-wide uppercase">
+            HOW TO APPROACH THE NEXT 90 DAYS
+          </h3>
+          <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
+            Understand how training, nutrition, consistency, accountability, and coaching fit together into a sustainable system that integrates with your job, family, and real life.
+          </p>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="bg-brand-surface p-6 sm:p-8 rounded-2xl border border-brand-border hover:border-brand-accent/40 transition">
+          <div class="w-12 h-12 rounded-xl bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-brand-accent font-black text-xl mb-4">
+            04
+          </div>
+          <h3 class="text-xl font-black text-white mb-2 tracking-wide uppercase">
+            GET YOUR QUESTIONS ANSWERED
+          </h3>
+          <p class="text-brand-muted text-sm sm:text-base leading-relaxed">
+            Discuss your situation directly with the coach and ask the specific questions you've been carrying from past failures. Receive direct, honest feedback with zero judgment.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Quick Section CTA -->
+      <div class="mt-10 text-center">
+        <button onclick="openRegistrationModal()" class="inline-flex items-center gap-3 px-7 py-3.5 bg-brand-surface hover:bg-brand-card border border-brand-accent text-white font-bold rounded-xl text-sm sm:text-base transition hover:shadow-glow-subtle">
+          <span>GET MY 90-DAY WEIGHT-LOSS CLARITY (₹99)</span>
+          <svg class="w-4 h-4 text-brand-accent" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 4 — WEBINAR EXPERIENCE / HOW
+         ================================================== -->
+    <section class="py-16 bg-brand-surface/40 border-y border-brand-border px-4 sm:px-6 lg:px-8">
+      <div class="max-w-5xl mx-auto">
+        <div class="text-center max-w-2xl mx-auto mb-14">
+          <p class="text-brand-accent text-xs sm:text-sm font-bold uppercase tracking-wider mb-2">Curriculum Flow</p>
+          <h2 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
+            What Happens Inside The ₹99 Webinar?
+          </h2>
+          <p class="text-brand-muted text-sm sm:text-base mt-2">
+            A clear, 5-stage progression designed to bring complete mental clarity.
+          </p>
+        </div>
+
+        <div class="relative">
+          <!-- Desktop visual connector line -->
+          <div class="hidden md:block absolute left-1/2 top-4 bottom-4 w-0.5 bg-brand-border -translate-x-1/2"></div>
+
+          <div class="space-y-8">
+            
+            <!-- Step 1 -->
+            <div class="relative flex flex-col md:flex-row items-center gap-6">
+              <div class="w-full md:w-1/2 md:text-right pr-0 md:pr-8">
+                <span class="text-brand-accent text-xs font-mono font-bold">STEP 01</span>
+                <h3 class="text-xl font-bold text-white mt-1">LOOK BACK</h3>
+                <p class="text-sm text-brand-muted mt-1">Understand your previous attempts, pinpoint patterns, and discover where things historically broke down.</p>
+              </div>
+              <div class="z-10 w-10 h-10 rounded-full bg-brand-card border-2 border-brand-accent flex items-center justify-center font-bold text-xs text-white shadow-glow">
+                01
+              </div>
+              <div class="w-full md:w-1/2 md:pl-8">
+                <div class="p-3 bg-brand-card rounded-lg border border-brand-border text-xs text-slate-300">
+                  ⚡ Focus: Uncovering why past motivation disappeared.
+                </div>
+              </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="relative flex flex-col md:flex-row-reverse items-center gap-6">
+              <div class="w-full md:w-1/2 md:text-left pl-0 md:pl-8">
+                <span class="text-brand-accent text-xs font-mono font-bold">STEP 02</span>
+                <h3 class="text-xl font-bold text-white mt-1">FIND THE OBSTACLE</h3>
+                <p class="text-sm text-brand-muted mt-1">Identify the real obstacles: lifestyle mismatch, metabolic adaptation, emotional eating, or lack of feedback.</p>
+              </div>
+              <div class="z-10 w-10 h-10 rounded-full bg-brand-card border-2 border-brand-accent flex items-center justify-center font-bold text-xs text-white shadow-glow">
+                02
+              </div>
+              <div class="w-full md:w-1/2 md:pr-8 md:text-right">
+                <div class="p-3 bg-brand-card rounded-lg border border-brand-border text-xs text-slate-300">
+                  ⚡ Focus: Separating actual roadblocks from excuses.
+                </div>
+              </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="relative flex flex-col md:flex-row items-center gap-6">
+              <div class="w-full md:w-1/2 md:text-right pr-0 md:pr-8">
+                <span class="text-brand-accent text-xs font-mono font-bold">STEP 03</span>
+                <h3 class="text-xl font-bold text-white mt-1">LEARN THE 90-DAY APPROACH</h3>
+                <p class="text-sm text-brand-muted mt-1">Understand what a structured, realistic transformation process looks like across 12 focused weeks.</p>
+              </div>
+              <div class="z-10 w-10 h-10 rounded-full bg-brand-card border-2 border-brand-accent flex items-center justify-center font-bold text-xs text-white shadow-glow">
+                03
+              </div>
+              <div class="w-full md:w-1/2 md:pl-8">
+                <div class="p-3 bg-brand-card rounded-lg border border-brand-border text-xs text-slate-300">
+                  ⚡ Focus: Progression phases, realistic calorie deficits & strength.
+                </div>
+              </div>
+            </div>
+
+            <!-- Step 4 -->
+            <div class="relative flex flex-col md:flex-row-reverse items-center gap-6">
+              <div class="w-full md:w-1/2 md:text-left pl-0 md:pl-8">
+                <span class="text-brand-accent text-xs font-mono font-bold">STEP 04</span>
+                <h3 class="text-xl font-bold text-white mt-1">TALK TO THE COACH</h3>
+                <p class="text-sm text-brand-muted mt-1">Live open mic and chat: discuss your journey, medical constraints, goals, schedule, and lingering doubts.</p>
+              </div>
+              <div class="z-10 w-10 h-10 rounded-full bg-brand-card border-2 border-brand-accent flex items-center justify-center font-bold text-xs text-white shadow-glow">
+                04
+              </div>
+              <div class="w-full md:w-1/2 md:pr-8 md:text-right">
+                <div class="p-3 bg-brand-card rounded-lg border border-brand-border text-xs text-slate-300">
+                  ⚡ Focus: Live personal answers, not pre-recorded webinars.
+                </div>
+              </div>
+            </div>
+
+            <!-- Step 5 -->
+            <div class="relative flex flex-col md:flex-row items-center gap-6">
+              <div class="w-full md:w-1/2 md:text-right pr-0 md:pr-8">
+                <span class="text-emerald-400 text-xs font-mono font-bold">STEP 05</span>
+                <h3 class="text-xl font-bold text-white mt-1">DECIDE</h3>
+                <p class="text-sm text-brand-muted mt-1">With 100% facts in hand, explore our 90-day physical gym challenge in Chitlapakkam, Chennai <strong class="text-white">only if</strong> you feel it's the exact right fit.</p>
+              </div>
+              <div class="z-10 w-10 h-10 rounded-full bg-brand-card border-2 border-emerald-500 flex items-center justify-center font-bold text-xs text-emerald-400">
+                05
+              </div>
+              <div class="w-full md:w-1/2 md:pl-8">
+                <div class="p-3 bg-brand-card rounded-lg border border-emerald-900/50 text-xs text-emerald-300">
+                  ⚡ Focus: Zero-pressure evaluation. You stay in full control.
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 5 — DIFFERENTIATION (OLD VS NEW)
+         ================================================== -->
+    <section class="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <h2 class="text-3xl sm:text-4xl font-extrabold tracking-tight">
+          This Isn't About Starting Another Random Diet Or Workout.
+        </h2>
+        <p class="text-brand-muted text-sm sm:text-base mt-4 leading-relaxed">
+          You don't need another generic list of exercises or another diet plan you can't maintain. The goal is to understand the complete picture — training, nutrition, consistency, accountability, and the system required to stay on track for 90 days.
+        </p>
+      </div>
+
+      <!-- Comparison Matrix -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
+        
+        <!-- Old Approach -->
+        <div class="bg-red-950/20 border border-red-900/40 rounded-2xl p-6 sm:p-8 flex flex-col justify-between">
+          <div>
+            <div class="inline-block px-3 py-1 bg-red-900/40 border border-red-700/50 text-red-300 text-xs font-bold rounded uppercase mb-4">
+              The Broken Loop
+            </div>
+            <h3 class="text-xl font-black text-slate-200 mb-4">OLD APPROACH</h3>
+            
+            <div class="space-y-3 font-medium text-sm text-slate-300">
+              <div class="flex items-center gap-3">
+                <span class="text-red-400 font-bold">✕</span> Random workouts from Instagram
+              </div>
+              <div class="text-center text-red-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-red-400 font-bold">✕</span> Crash diet / Starvation
+              </div>
+              <div class="text-center text-red-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-red-400 font-bold">✕</span> Relying purely on motivation
+              </div>
+              <div class="text-center text-red-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-red-400 font-bold">✕</span> Inevitable burnout & stop
+              </div>
+              <div class="text-center text-red-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3 text-red-300 font-bold">
+                <span>🔄</span> Start all over again months later
+              </div>
+            </div>
+          </div>
+          <div class="mt-6 pt-4 border-t border-red-900/30 text-xs text-red-400/80">
+            Result: Guilt, wasted money, and no sustained transformation.
+          </div>
+        </div>
+
+        <!-- New Understanding -->
+        <div class="bg-emerald-950/20 border-2 border-emerald-500/50 rounded-2xl p-6 sm:p-8 flex flex-col justify-between shadow-glow-subtle">
+          <div>
+            <div class="inline-block px-3 py-1 bg-emerald-900/50 border border-emerald-600/60 text-emerald-300 text-xs font-bold rounded uppercase mb-4">
+              What You'll Learn In The Webinar
+            </div>
+            <h3 class="text-xl font-black text-emerald-400 mb-4">NEW UNDERSTANDING</h3>
+            
+            <div class="space-y-3 font-medium text-sm text-slate-200">
+              <div class="flex items-center gap-3">
+                <span class="text-emerald-400 font-bold">✓</span> Step 1: Objective Assessment & baseline
+              </div>
+              <div class="text-center text-emerald-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-emerald-400 font-bold">✓</span> Step 2: Progressive, structured training
+              </div>
+              <div class="text-center text-emerald-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-emerald-400 font-bold">✓</span> Step 3: Sustainable flexible nutrition
+              </div>
+              <div class="text-center text-emerald-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-emerald-400 font-bold">✓</span> Step 4: Daily / Weekly coach guidance & metrics
+              </div>
+              <div class="text-center text-emerald-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3">
+                <span class="text-emerald-400 font-bold">✓</span> Step 5: Data-driven adjustments
+              </div>
+              <div class="text-center text-emerald-500/60 font-bold">↓</div>
+              <div class="flex items-center gap-3 text-emerald-300 font-bold">
+                <span>🎯</span> Predictable, permanent 90-day transformation
+              </div>
+            </div>
+          </div>
+          <div class="mt-6 pt-4 border-t border-emerald-800/40 text-xs text-emerald-300">
+            Result: Predictability, renewed confidence, and lifelong consistency.
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 6 — LOW-RISK ENTRY (VERY PROMINENT)
+         ================================================== -->
+    <section class="py-14 px-4 sm:px-6 lg:px-8">
+      <div class="max-w-4xl mx-auto rounded-3xl bg-gradient-to-b from-brand-surface to-brand-card border-2 border-brand-accent/40 p-8 sm:p-12 text-center shadow-glow relative overflow-hidden">
+        
+        <div class="inline-flex items-center gap-2 highlight-pill text-brand-accent px-4 py-1.5 rounded-full text-xs font-extrabold uppercase tracking-wider mb-6">
+          Zero Trap Guarantee
+        </div>
+
+        <h2 class="text-3xl sm:text-5xl font-black text-white tracking-tight mb-4">
+          You Don't Have To Join The Program Today.
+        </h2>
+
+        <p class="text-slate-300 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed mb-6">
+          Don't commit to another 90-day program without knowing whether it is right for you. For just <strong>₹99</strong>, attend the online webinar.
+        </p>
+
+        <!-- Mini Value Checklist -->
+        <div class="flex flex-wrap justify-center gap-3 sm:gap-6 text-sm text-slate-200 font-medium mb-8">
+          <span class="inline-flex items-center gap-1.5 bg-black/40 px-3 py-1.5 rounded-lg border border-brand-border">
+            <span class="text-brand-accent font-bold">✓</span> Talk to the coach
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-black/40 px-3 py-1.5 rounded-lg border border-brand-border">
+            <span class="text-brand-accent font-bold">✓</span> Discuss your previous journey
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-black/40 px-3 py-1.5 rounded-lg border border-brand-border">
+            <span class="text-brand-accent font-bold">✓</span> Ask your questions
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-black/40 px-3 py-1.5 rounded-lg border border-brand-border">
+            <span class="text-brand-accent font-bold">✓</span> Understand the approach
+          </span>
+        </div>
+
+        <!-- The Big Punchline -->
+        <div class="py-4 my-2 border-y border-brand-border/80">
+          <p class="text-2xl sm:text-4xl font-black tracking-tight text-brand-accent">
+            FIRST UNDERSTAND. THEN DECIDE.
+          </p>
+        </div>
+
+        <div class="mt-8 flex flex-col items-center">
+          <button onclick="openRegistrationModal()" class="w-full sm:w-auto px-9 py-4 bg-brand-accent hover:bg-brand-accentHover text-white font-extrabold text-lg rounded-xl shadow-glow transition transform active:scale-95">
+            GET MY ₹99 WEBINAR SEAT
+          </button>
+          <span class="text-xs text-brand-muted mt-3">Invest ₹99 now • Take total control over your health</span>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 7 — WHAT COMES AFTER THE WEBINAR
+         ================================================== -->
+    <section class="py-16 sm:py-20 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-brand-border/60">
+      <div class="text-center max-w-2xl mx-auto mb-10">
+        <span class="text-brand-muted text-xs uppercase tracking-widest font-semibold">Future Opportunity Preview</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold tracking-tight mt-1 text-slate-100">
+          If You Decide To Take The Next Step...
+        </h2>
+        <p class="text-brand-muted text-sm sm:text-base mt-2">
+          (Remember: The webinar is about clarity. But here is the flagship experience waiting if you choose to advance later.)
+        </p>
+      </div>
+
+      <div class="bg-brand-surface rounded-2xl border border-brand-border p-6 sm:p-8">
+        <p class="text-sm sm:text-base text-slate-200 leading-relaxed mb-6">
+          The <strong class="text-white">90 Days Transformation Challenge</strong> is a structured, coach-led transformation program conducted at our dedicated gym facility in <strong>Chitlapakkam, Chennai</strong>.
+        </p>
+
+        <!-- Components Grid -->
+        <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4 mb-8">
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">🥊</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Boxing</span>
+            <span class="text-[11px] text-brand-muted">Agility & high burn</span>
+          </div>
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">💪</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Strength Training</span>
+            <span class="text-[11px] text-brand-muted">Metabolic muscle build</span>
+          </div>
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">🔥</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Conditioning</span>
+            <span class="text-[11px] text-brand-muted">Stamina & heart health</span>
+          </div>
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">🥗</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Nutrition Guidance</span>
+            <span class="text-[11px] text-brand-muted">Customized, no starvation</span>
+          </div>
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">👨‍🏫</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Coach Guidance</span>
+            <span class="text-[11px] text-brand-muted">Form checks & encouragement</span>
+          </div>
+          <div class="p-3 bg-brand-card rounded-xl border border-brand-border text-center">
+            <span class="text-2xl block mb-1">📈</span>
+            <span class="text-xs sm:text-sm font-bold text-white block">Progress Tracking</span>
+            <span class="text-[11px] text-brand-muted">Measurements & vitals</span>
+          </div>
+        </div>
+
+        <!-- Conditional Refund Statement with compliance transparency -->
+        <div class="p-4 sm:p-5 bg-brand-card/90 rounded-xl border border-brand-accent/30 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <div>
+            <div class="text-base sm:text-lg font-black text-white tracking-wide">
+              90 DAYS TRANSFORMATION OR REFUND*
+            </div>
+            <p class="text-xs text-brand-muted mt-1 leading-normal max-w-xl">
+              *Subject to the stated program requirements and refund terms. We are not selling shortcuts. Full eligibility criteria and refund terms will be explained thoroughly during the webinar before enrollment.
+            </p>
+          </div>
+          <div class="flex-shrink-0">
+            <span class="text-xs font-semibold px-3 py-1.5 rounded bg-brand-surface border border-brand-border text-slate-300">
+              Chitlapakkam, Chennai
+            </span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 8 & SECTION 9 — AUDIENCE FILTERING
+         ================================================== -->
+    <section class="py-16 sm:py-20 bg-brand-surface/60 border-t border-brand-border px-4 sm:px-6 lg:px-8">
+      <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8">
+        
+        <!-- SECTION 8: FOR YOU IF -->
+        <div class="bg-brand-card p-6 sm:p-8 rounded-2xl border border-brand-border flex flex-col justify-between">
+          <div>
+            <div class="inline-flex items-center gap-1.5 text-emerald-400 text-xs font-bold uppercase tracking-wider mb-3">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+              Ideal Participant
+            </div>
+            <h3 class="text-2xl font-black text-white mb-4">
+              This Webinar Is For You If...
+            </h3>
+            <ul class="space-y-3 text-sm text-slate-300">
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You've tried losing weight before but couldn't maintain it.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You keep starting and stopping and feel exhausted by the reboot cycle.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You want a structured, scientific approach instead of random social media tips.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You want to understand what you've actually been doing wrong previously.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You have an upcoming event, milestone, or deadline you want to feel your best for.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You genuinely want to make an authentic change within the next 90 days.</span>
+              </li>
+              <li class="flex items-start gap-2.5">
+                <span class="text-emerald-400 font-bold mt-0.5">✓</span>
+                <span>You're willing to learn and understand first before blindly spending money.</span>
+              </li>
+            </ul>
+          </div>
+          
+          <div class="mt-6 pt-4 border-t border-brand-border/70 bg-brand-surface/70 p-3 rounded-lg text-xs text-slate-300">
+            💡 <strong>Beginner Note:</strong> You don't need to have tried a gym before. If you've never seriously started but genuinely want to change, you are completely welcome.
+          </div>
+        </div>
+
+        <!-- SECTION 9: NOT FOR YOU IF -->
+        <div class="bg-brand-card p-6 sm:p-8 rounded-2xl border border-brand-border flex flex-col justify-between">
+          <div>
+            <div class="inline-flex items-center gap-1.5 text-red-400 text-xs font-bold uppercase tracking-wider mb-3">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clip-rule="evenodd"/></svg>
+              Filter Out
+            </div>
+            <h3 class="text-2xl font-black text-white mb-4">
+              Looking For A Quick Fix?
+            </h3>
+            <p class="text-sm text-red-300 font-semibold mb-3">
+              This webinar will NOT be a fit for you.
+            </p>
+            <p class="text-sm text-brand-muted leading-relaxed mb-4">
+              10-day magic transformations, extreme shortcuts, fat-loss pills, and zero-effort solutions are not what this webinar is about. We do not sell magic.
+            </p>
+            <div class="p-4 bg-red-950/20 border border-red-900/30 rounded-xl text-xs sm:text-sm text-slate-300 space-y-2">
+              <p>🚫 No crash diet secrets or starving protocols.</p>
+              <p>🚫 No fake overnight before/after miracles.</p>
+              <p>🚫 No passive listening where you expect results without execution.</p>
+            </div>
+          </div>
+
+          <div class="mt-6 pt-4 border-t border-brand-border/70 text-xs text-slate-300">
+            This webinar is strictly built for individuals ready to understand the real physiological process and commit to honest, guided work.
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==================================================
+         FREQUENTLY ASKED QUESTIONS (CLARITY ACCORDION)
+         ================================================== -->
+    <section class="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
+      <div class="text-center mb-10">
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-white">Got Questions Before Registering?</h2>
+        <p class="text-brand-muted text-sm mt-1">Here is everything you need to know about the ₹99 session.</p>
+      </div>
+
+      <div class="space-y-3">
+        <!-- FAQ 1 -->
+        <div class="border border-brand-border rounded-xl bg-brand-surface overflow-hidden">
+          <button onclick="toggleFaq('faq1')" class="w-full text-left p-4 sm:p-5 flex justify-between items-center focus:outline-none">
+            <span class="font-bold text-sm sm:text-base text-slate-200">Will I be forced or pressured to buy the 90-day program?</span>
+            <span id="icon-faq1" class="text-brand-accent text-xl transition-transform duration-200">+</span>
+          </button>
+          <div id="content-faq1" class="hidden px-4 pb-4 sm:px-5 sm:pb-5 text-xs sm:text-sm text-brand-muted border-t border-brand-border/50 pt-3">
+            Not at all. The explicit purpose of the ₹99 webinar is to diagnose why your past weight-loss attempts broke and show you what a structured approach entails. The 90-day physical program in Chitlapakkam is only introduced for those who feel ready to join. Understand first, decide later.
+          </div>
+        </div>
+
+        <!-- FAQ 2 -->
+        <div class="border border-brand-border rounded-xl bg-brand-surface overflow-hidden">
+          <button onclick="toggleFaq('faq2')" class="w-full text-left p-4 sm:p-5 flex justify-between items-center focus:outline-none">
+            <span class="font-bold text-sm sm:text-base text-slate-200">Can I actually ask questions directly to the coach?</span>
+            <span id="icon-faq2" class="text-brand-accent text-xl transition-transform duration-200">+</span>
+          </button>
+          <div id="content-faq2" class="hidden px-4 pb-4 sm:px-5 sm:pb-5 text-xs sm:text-sm text-brand-muted border-t border-brand-border/50 pt-3">
+            Yes. This is a live coach-led workshop, not an automated recorded video replay. A dedicated segment is reserved purely for open Q&A where you can discuss your individual issues and past obstacles.
+          </div>
+        </div>
+
+        <!-- FAQ 3 -->
+        <div class="border border-brand-border rounded-xl bg-brand-surface overflow-hidden">
+          <button onclick="toggleFaq('faq3')" class="w-full text-left p-4 sm:p-5 flex justify-between items-center focus:outline-none">
+            <span class="font-bold text-sm sm:text-base text-slate-200">What if I have never stepped into a gym before?</span>
+            <span id="icon-faq3" class="text-brand-accent text-xl transition-transform duration-200">+</span>
+          </button>
+          <div id="content-faq3" class="hidden px-4 pb-4 sm:px-5 sm:pb-5 text-xs sm:text-sm text-brand-muted border-t border-brand-border/50 pt-3">
+            You don't need any prior fitness experience. In fact, understanding the fundamentals before setting foot in a gym helps you avoid intimidation, injury, and the common mistakes beginners make.
+          </div>
+        </div>
+
+        <!-- FAQ 4 -->
+        <div class="border border-brand-border rounded-xl bg-brand-surface overflow-hidden">
+          <button onclick="toggleFaq('faq4')" class="w-full text-left p-4 sm:p-5 flex justify-between items-center focus:outline-none">
+            <span class="font-bold text-sm sm:text-base text-slate-200">How do I access the webinar after paying ₹99?</span>
+            <span id="icon-faq4" class="text-brand-accent text-xl transition-transform duration-200">+</span>
+          </button>
+          <div id="content-faq4" class="hidden px-4 pb-4 sm:px-5 sm:pb-5 text-xs sm:text-sm text-brand-muted border-t border-brand-border/50 pt-3">
+            Immediately upon successful registration, you will receive an instant confirmation email and WhatsApp message with the private webinar access link and calendar invite.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         SECTION 10 — FINAL CTA
+         ================================================== -->
+    <section class="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-t from-brand-surface via-brand-black to-brand-black border-t border-brand-border text-center">
+      <div class="max-w-3xl mx-auto">
+        
+        <span class="highlight-pill text-brand-accent px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-wider mb-4 inline-block">
+          Take Action Today
+        </span>
+
+        <h2 class="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight mb-4">
+          Stop Guessing. Start With Clarity.
+        </h2>
+
+        <p class="text-slate-300 text-base sm:text-lg mb-6 max-w-xl mx-auto">
+          Find out why your previous weight-loss attempts didn't work — and what you need to do differently for the next 90 days.
+        </p>
+
+        <!-- Ticket Price Card Highlight -->
+        <div class="bg-brand-surface border-2 border-brand-accent/50 p-6 rounded-2xl max-w-md mx-auto mb-8 shadow-glow">
+          <div class="text-xs uppercase tracking-widest text-brand-muted mb-1 font-semibold">Live Interactive Webinar Pass</div>
+          <div class="text-4xl sm:text-5xl font-black text-white flex items-center justify-center gap-2">
+            <span class="text-brand-accent">₹99</span>
+            <span class="text-xs font-normal text-slate-400 bg-brand-card px-2 py-1 rounded border border-brand-border">All Inclusive</span>
+          </div>
+          <p class="text-xs sm:text-sm text-slate-300 mt-3 font-medium">
+            Coach interaction • Your questions • Your journey • Your next steps
+          </p>
+        </div>
+
+        <!-- Final CTA Button -->
+        <button onclick="openRegistrationModal()" class="w-full sm:w-auto px-10 py-4 bg-brand-accent hover:bg-brand-accentHover text-white font-black text-lg rounded-xl shadow-glow transition transform active:scale-95 flex items-center justify-center gap-3 mx-auto">
+          <span>GET MY ₹99 WEBINAR SEAT</span>
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
+        </button>
+
+        <div class="mt-6 space-y-1 text-xs text-brand-muted">
+          <p>You don't need to join the 90-day challenge today.</p>
+          <p class="font-semibold text-slate-300">Attend the webinar. Get clarity. Then decide.</p>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="py-8 bg-brand-black border-t border-brand-border/60 text-center text-xs text-brand-muted px-4">
+    <div class="max-w-4xl mx-auto space-y-2">
+      <p class="font-semibold text-slate-400">90-Day Transformation Challenge • Chitlapakkam, Chennai</p>
+      <p class="text-[11px] leading-relaxed max-w-2xl mx-auto text-slate-300">
+        Disclaimer: Results may vary depending on individual adherence, starting baseline, nutrition, and medical history. No claims of guaranteed or instant weight loss are made. Any refund claims associated with the physical 90-day program are strictly governed by formal participation and attendance criteria detailed before enrollment.
+      </p>
+      <p class="pt-2 text-slate-300">© <span id="currentYear"></span> All rights reserved. ₹99 Online Webinar Registration.</p>
+    </div>
+  </footer>
+
+  <!-- ==================================================
+       STICKY BOTTOM MOBILE ACTION BAR (High Conversion)
+       ================================================== -->
+  <div class="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-brand-surface/95 backdrop-blur-md border-t border-brand-border p-3 px-4 flex items-center justify-between shadow-2xl">
+    <div>
+      <div class="text-xs text-brand-muted uppercase font-semibold">Webinar Entry</div>
+      <div class="text-lg font-black text-white leading-tight">₹99 <span class="text-[10px] font-normal text-emerald-400">Live Seat</span></div>
+    </div>
+    <button onclick="openRegistrationModal()" class="px-5 py-2.5 bg-brand-accent hover:bg-brand-accentHover text-white font-extrabold text-sm rounded-lg shadow-glow active:scale-95 flex items-center gap-1.5">
+      <span>GET MY SEAT</span>
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
+    </button>
+  </div>
+
+  <!-- ==================================================
+       ₹99 REGISTRATION MODAL WITH CHECKOUT SIMULATION
+       ================================================== -->
+  <div id="registrationModal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm transition-opacity">
+    <div class="bg-brand-surface border border-brand-border rounded-2xl w-full max-w-md p-6 relative shadow-2xl overflow-hidden animate-fade-in">
+      
+      <!-- Close button -->
+      <button onclick="closeRegistrationModal()" class="absolute top-4 right-4 text-brand-muted hover:text-white p-1 rounded-lg text-lg focus:outline-none">
+        ✕
+      </button>
+
+      <div class="mb-4">
+        <span class="highlight-pill text-brand-accent px-2.5 py-0.5 rounded text-[11px] font-bold uppercase">Online Coach-Led Session</span>
+        <h3 class="text-xl font-extrabold text-white mt-2">Lock Your ₹99 Webinar Seat</h3>
+        <p class="text-xs text-brand-muted mt-1">Get immediate access instructions via Email & WhatsApp.</p>
+      </div>
+
+      <!-- Registration Form -->
+      <form id="webinarForm" onsubmit="handleRegistrationSubmit(event)" class="space-y-3.5">
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1">Your Full Name</label>
+          <input type="text" id="userName" required placeholder="e.g. Arun Kumar" class="w-full px-3.5 py-2.5 rounded-lg bg-brand-card border border-brand-border text-white text-sm focus:outline-none focus:border-brand-accent placeholder-slate-500">
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1">WhatsApp Number (For Link & Reminder)</label>
+          <div class="flex">
+            <span class="inline-flex items-center px-3 rounded-l-lg border border-r-0 border-brand-border bg-brand-card text-xs text-brand-muted font-bold">+91</span>
+            <input type="tel" id="userPhone" pattern="[0-9]{10}" required placeholder="9876543210" class="w-full px-3.5 py-2.5 rounded-r-lg bg-brand-card border border-brand-border text-white text-sm focus:outline-none focus:border-brand-accent placeholder-slate-500">
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-xs font-semibold text-slate-300 mb-1">Email Address</label>
+          <input type="email" id="userEmail" required placeholder="arun@example.com" class="w-full px-3.5 py-2.5 rounded-lg bg-brand-card border border-brand-border text-white text-sm focus:outline-none focus:border-brand-accent placeholder-slate-500">
+        </div>
+
+        <!-- Order Summary Pill -->
+        <div class="p-3 bg-brand-card rounded-lg border border-brand-border/80 flex items-center justify-between text-xs">
+          <span class="text-slate-300">Registration Fee:</span>
+          <span class="font-extrabold text-white text-sm text-brand-accent">₹99 Only</span>
+        </div>
+
+        <button type="submit" id="submitBtn" class="w-full py-3 bg-brand-accent hover:bg-brand-accentHover text-white font-extrabold text-sm rounded-lg shadow-glow transition transform active:scale-95 flex items-center justify-center gap-2">
+          <span>PROCEED TO PAY ₹99</span>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+        </button>
+
+        <p class="text-[11px] text-center text-brand-muted mt-2">
+          🔒 Secure 256-bit encrypted checkout (UPI, GPay, PhonePe, Cards)
+        </p>
+      </form>
+
+      <!-- Success State view (Hidden initially) -->
+      <div id="modalSuccessState" class="hidden text-center py-6">
+        <div class="w-14 h-14 bg-emerald-950/70 border border-emerald-500 rounded-full flex items-center justify-center text-emerald-400 text-2xl mx-auto mb-3">
+          ✓
+        </div>
+        <h4 class="text-lg font-bold text-white mb-1">You Are Registered!</h4>
+        <p class="text-xs text-slate-300 max-w-xs mx-auto leading-relaxed mb-4">
+          A confirmation with your webinar access link has been sent to your WhatsApp number and email.
+        </p>
+        <div class="p-3 bg-brand-card rounded-lg text-xs text-brand-accent border border-brand-accent/30 font-medium mb-4">
+          "Understand first. Decide later."
+        </div>
+        <button onclick="closeRegistrationModal()" class="px-6 py-2 bg-brand-border hover:bg-brand-card text-white text-xs font-bold rounded-lg">
+          Done
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    // Set dynamic current year in footer
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+    // Modal Control Functions
+    function openRegistrationModal() {
+      const modal = document.getElementById('registrationModal');
+      modal.classList.remove('hidden');
+      document.body.classList.add('overflow-hidden');
+    }
+
+    function closeRegistrationModal() {
+      const modal = document.getElementById('registrationModal');
+      modal.classList.add('hidden');
+      document.body.classList.remove('overflow-hidden');
+      
+      // Reset form view in case user reopens
+      setTimeout(() => {
+        document.getElementById('webinarForm').classList.remove('hidden');
+        document.getElementById('modalSuccessState').classList.add('hidden');
+      }, 300);
+    }
+
+    // Close modal on Escape key
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeRegistrationModal();
+    });
+
+    // Close modal if background overlay clicked
+    document.getElementById('registrationModal').addEventListener('click', (e) => {
+      if (e.target === e.currentTarget) closeRegistrationModal();
+    });
+
+    // Form Submission Simulation
+    function handleRegistrationSubmit(event) {
+      event.preventDefault();
+      const submitBtn = document.getElementById('submitBtn');
+      const originalText = submitBtn.innerHTML;
+      
+      submitBtn.disabled = true;
+      submitBtn.innerHTML = `<span>Processing ₹99 Checkout...</span>`;
+
+      // Simulating simulated checkout process
+      setTimeout(() => {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = originalText;
+        document.getElementById('webinarForm').classList.add('hidden');
+        document.getElementById('modalSuccessState').classList.remove('hidden');
+      }, 1000);
+    }
+
+    // FAQ Accordion Handler
+    function toggleFaq(id) {
+      const content = document.getElementById(`content-${id}`);
+      const icon = document.getElementById(`icon-${id}`);
+      const isHidden = content.classList.contains('hidden');
+
+      // Close other FAQs
+      ['faq1', 'faq2', 'faq3', 'faq4'].forEach((item) => {
+        const c = document.getElementById(`content-${item}`);
+        const i = document.getElementById(`icon-${item}`);
+        if (c && i) {
+          c.classList.add('hidden');
+          i.textContent = '+';
+          i.classList.remove('rotate-45');
+        }
+      });
+
+      if (isHidden) {
+        content.classList.remove('hidden');
+        icon.textContent = '✕';
+      }
+    }
+  </script>
+</body>
+</html>
